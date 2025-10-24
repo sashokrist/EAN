@@ -1,0 +1,26 @@
+# Excel files
+*.xlsx
+*.xls
+*.csv
+
+# Inventory files
+Inventory.xlsx
+Inventory.xls
+Inventory.csv
+
+# Temporary files
+*.tmp
+*.temp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Log files
+*.log
